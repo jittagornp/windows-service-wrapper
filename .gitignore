@@ -25,9 +25,14 @@ target/
 /dist/
 /nbdist/
 /.nb-gradle/
-build/
+service/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
 ### VS Code ###
 .vscode/
+
+.DS_Store
+.DS_Store/
+*/.DS_Store
+*/**/.DS_Store

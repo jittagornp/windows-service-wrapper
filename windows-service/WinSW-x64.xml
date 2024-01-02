@@ -35,9 +35,9 @@
 <service>
   
   <!-- ID of the service. It should be unique across the Windows system-->
-  <id>my-app</id>
+  <id>my-service</id>
   <!-- Display name of the service -->
-  <name>my-app</name>
+  <name>my-service</name>
   <!-- Service description -->
   <description>Demo project for building Java Spring Boot as a Windows Service Wrapper</description>
   <!-- Path to the executable, which should be started -->
